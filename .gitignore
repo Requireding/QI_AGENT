@@ -1,0 +1,18 @@
+# Secure Keys and Variables
+.env
+.env.local
+
+# Local Data Processing Artifacts
+paper_embeddings.npy
+paper_faiss.index
+
+# Python Execution Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+ENV/
